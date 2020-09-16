@@ -1,4 +1,4 @@
-### Hi there 👋
+### 我是深海，请你吃鱼。
 
 <!--
 **mzzxr/mzzxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
